@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Project2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  snike.cpp
+C:\Users\maxko\Documents\змейка\Project2\Project2\snike.cpp(62,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\maxko\Documents\змейка\Project2\Project2\snike.cpp(69,32): warning C4309: аргумент: усечение константного значения
+C:\Users\maxko\Documents\змейка\Project2\Project2\snike.cpp(264,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\maxko\Documents\змейка\Project2\Project2\snike.cpp(264,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Project2.vcxproj -> C:\Users\maxko\Documents\змейка\Project2\x64\Debug\snike.exe
